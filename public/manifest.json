@@ -1,0 +1,17 @@
+{
+  "name": "Mathlas Development",
+  "short_name": "Mathlas",
+  "description": "Software development company for web development, mobile apps, ERP software, UI/UX, cloud infrastructure, and custom software solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
